@@ -8,5 +8,5 @@ NEXTAUTH_SECRET=7dK3p9fZxD4Nq8hB1Lx2yXWfA7Y9j+Bc5rPe1bHd8qQ=
 
  == PUSH NEW CHANGES FROM LOCAL  TO GITHUB
 git add .
-git commit -m "Changes 110125 - 856am"
+git commit -m "Changes 110125 - 943am"
 git push origin main
