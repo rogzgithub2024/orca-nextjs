@@ -1,1 +1,12 @@
  - ssh -T git@github-orca-nextjs
+
+- Forge Deploy Key Generated
+ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC/pKfs8DmsPL763a31xvwu7UZXuqaotbhSBxScXn+cYhlnOh6CVnB14b9xFSr/kPQ2HrSR8sQqf7G8TsyAvv26eGV4mh2tmVwq3ScFRQ0Wz988yeOv7UGeRt2iQUXud6yhB4xKxghGT3HYxoLn7gmIua+PfHOuOSwLnWxLOtx16aUvJY2SU5CmpMJM0RMdxJgmtaJjvg+z0DjwAk0GqVhZr+za5BddIuYi4inCEix5IzoutqG7anHp30V4C8frsKgMQJA9lEEzv/6onA1hzqUpCvR444/IELvX5yjKn33OQ0Msexzd3qc+ndQq28VOmHu/VHlL3c3/BbsgZdlwbttOfRrUaPQEaU7oLhX5+ycBQCWxqj/2vQ7A+zfJHawzVWg3zkXyIdFf4anzxj6cwOogWKMvz9HM9HGM39pRr3jvKE4cp/Wn+upj/UZ6i8aZ+XehO1y4RtyDSnV0ANATffmcyhTX89C/Hiz8EXAifFerOuGIpicURuVOEOh7//qEbwHIctTdzTgKozzvr6LokI8choo2QAUkPK1r5PKNW7tvcx2otLkWjHOmey4KNJOGQxDArsn2SYIhqHGHggWIryh+JEwXwotOyOXaYlF06u3uTqArTYX06Sq4+sXMFJUdbxauhCHyORM0DytUh6fdTWLARF7q/Izcm4m16NjdEFVAYw== worker@forge.laravel.com
+
+.env
+NEXTAUTH_SECRET=7dK3p9fZxD4Nq8hB1Lx2yXWfA7Y9j+Bc5rPe1bHd8qQ=
+
+ == PUSH NEW CHANGES FROM LOCAL  TO GITHUB
+git add .
+git commit -m "Changes 110125 - 856am"
+git push origin main
